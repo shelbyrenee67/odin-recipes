@@ -4,3 +4,6 @@ In this project, I will implement what I have learned about HTML so far and buil
 After the website is built, I will return to these goals and determine if I was successfull in accomplishing them over the course of this project. 
 
 Edit (4-21-22): I was successful in: 1. Structuring my recipe website using proper HTML components 2. Adding absolute and relative links 3. Practicing the use of headings and 4. adding images to my site. I met all of my goals in this project. 
+
+Edit: 4/23/2022
+I successfully built my recipe site using HTML components. I then came back to the site and added a style sheet to style my recipe site. This is a very basic exercise of what I have learned about CSS so far, and I will come back to add to this project when I learn more advanced techniques. 

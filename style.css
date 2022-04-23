@@ -1,0 +1,45 @@
+.main{
+    text-align: center;
+}
+
+ul > li{
+    list-style: none;
+}
+
+.heading{
+    color: purple; 
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.list{
+    color: blue;
+    font-size: 25px;
+}
+
+.heading-one {
+    font-size: 50px;
+    color: palevioletred
+}
+
+.describe{
+    color: violet;
+    font-size: 30px;
+}
+
+.para{
+    color: lightskyblue;
+    font-size: 25px;
+}
+
+.ingredients, 
+.otherList {
+    color: lightgreen;
+    font-size: 25px;
+}
+
+.steps, 
+.unordered{
+    color: lightseagreen;
+    font-size: 20px;
+}
